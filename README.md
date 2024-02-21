@@ -1,6 +1,6 @@
 # Docker Notes
 ## Problem Statement
-- Setting up Replicated Environment.
+- Setting up of the same environment on every different machine where we wanted the application to run properly was a time taking and repetative task.
 
 ## Solution
 - Using containers , in these containers we setup our config , then we can share these container with other people and these containers are system independent which means these containers can run in any system.
